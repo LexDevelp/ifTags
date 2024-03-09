@@ -12,8 +12,7 @@ Etiqueta IF
 &lt;</code>&gt;
   
 Etiqueta FOR
-<code>
-<for i=0 i<5 i++ >
-  <p>Contenido a iterar</p>
-&lt;</for>&gt;
-&lt;</code>&gt;
+<for i=0 i<5 i++ ><p>Contenido a iterar</p></for>
+  
+
+
