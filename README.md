@@ -8,12 +8,12 @@ Etiqueta IF
 <code>
 <if condition={'usuario'=='usuario'}>
   <p>Se cumple la condicional</p>
-</if>
-</code>
+&lt;</if>&gt;
+&lt;</code>&gt;
   
 Etiqueta FOR
 <code>
 <for i=0 i<5 i++ >
   <p>Contenido a iterar</p>
-</for>
-</code>
+&lt;</for>&gt;
+&lt;</code>&gt;
