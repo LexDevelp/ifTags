@@ -5,11 +5,15 @@ prototipo de etiquetas if y for utilizando etiquetas HTML
 el contenido debe estar dentro del archivo .sjs de la ruta ./public/index.sjs
 
 Etiqueta IF
+<code>
 <if condition={'usuario'=='usuario'}>
-  // contenido html a mostrar
+  <p>Se cumple la condicional</p>
 </if>
-
+</code>
+  
 Etiqueta FOR
+<code>
 <for i=0 i<5 i++ >
-  // contenido hmtl a mostrar
+  <p>Contenido a iterar</p>
 </for>
+</code>
